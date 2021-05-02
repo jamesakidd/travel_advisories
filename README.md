@@ -3,6 +3,7 @@
 Case study 2 for Term 5 Javascript course. 
 
 Mobile web app that displays Canadian travel advisories and embassy information, updated from Canadian government data. 
+Uses MERN stack, deployed to Heroku.
 
 [Mobile Footprint only](https://jameskidd-casestudy-extra.herokuapp.com)
 
