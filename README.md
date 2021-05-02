@@ -2,7 +2,7 @@
 
 Case study 2 for Term 5 Javascript course. 
 
-Mobile web app that displays Canadian travel advisories and embassy information. 
+Mobile web app that displays Canadian travel advisories and embassy information, updated from Canadian government data. 
 
 [Mobile Foorprint only](https://jameskidd-casestudy-extra.herokuapp.com)
 
